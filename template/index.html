@@ -1,0 +1,46 @@
+{% extends "layout.html" %}
+{% block body %}
+    <!-- Page Header -->
+  <header class="masthead" style="background-image: url('{{ url_for('static',filename='img/bus-bg.jpg') }}')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="site-heading">
+            <h1>Bus_Transportation</h1>
+            <span class="subheading">Management System</span>
+            <br>
+            <span class="subheading">{{ welcome }} {{ user }}{{ exc }}</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        
+        <p>Buses are the most frequently available and used for travelling. there are many types of buses
+made available in the market according to the class of the public.<br> As per the needs of the
+public ,there are many features being provided in the buses. Such as AC coach,NON-AC
+coach,sleeper,semi sleeper etc. Apart from providing these facilities in their buses the problem
+here arises about the tickets i.e; everyone needs the tickets. <br>But it’s not possible. The buses
+which will register on our system will have the option to give their customers an option to
+select the seats of the bus according to their wish as many places depending on the availability.
+Making the system more useful unique tickets will be generated as its seats confirmed.<br> Here
+we are with a system which can facilitate the users to which they can get their seats prior.
+As staff will decide the seat availability and here we have other users like the staff of the bus
+and driver with the owner who together collaborates in smooth functioning of the bus ticket
+booking system.</p>
+        <br><hr>
+        <h4 align="center">      Try different Menu Options to Explore</h4>
+        
+      </div>
+    </div>
+  </div>
+
+{% endblock %}
+
+  
