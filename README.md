@@ -1,6 +1,7 @@
 Bus_transportation_System
 ---------------------------
-This is to understand the working of embedded SQL and database connectivity, further i might add email feature to this
+This is to understand the working of embedded SQL and database connectivity, further i might add email feature to this.
+
 NOTE: 
 ------------
 Install all the nessesary modules required for the main.py
