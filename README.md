@@ -6,4 +6,5 @@ run it
 the output contains a link which runs on local host.
 
 # NOTE: 
-create all the necessary tables that are shown in the schema in your database
+create all the necessary tables that are shown in the schema in your database, 
+files can imported from database_dumpfiles (mysql_workbench)
