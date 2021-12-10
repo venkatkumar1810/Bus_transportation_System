@@ -1,6 +1,6 @@
 Bus_transportation_System
 ---------------------------
-This is to understand the working of embedded SQL and database connectivity, This can be still extented with correct login/logout facility , sending an email etc...
+This is to understand the working of embedded SQL and database connectivity , This can be still extented with correct login/logout facility , sending an email etc...
 
 NOTE: 
 ------------
