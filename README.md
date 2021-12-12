@@ -6,9 +6,9 @@ Output Images:
 -----
 ![](./Schema/resultss.png)
 ----
-![](./Schema/res1.PNG)
+![](./Schema/result1.png)
 ----
-![](./Schema/result2.PNG)
+![](./Schema/result2.png)
 ----
 ![](./Schema/output1.PNG)
 ---
