@@ -6,7 +6,7 @@ Output Images:
 -----
 ![](./Schema/resultss.png)
 ----
-![](./Schema/result1.PNG)
+![](./Schema/res1.PNG)
 ----
 ![](./Schema/result2.PNG)
 ----
