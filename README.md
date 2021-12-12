@@ -2,6 +2,9 @@ Bus_transportation_System
 ---------------------------
 This is to understand the working of embedded SQL and database connectivity , This can be still extented with correct login/logout facility , sending an email etc...
 
+Output Images: 
+-----
+![](./Schema/buses.PNG)
 NOTE: 
 ------------
 Install all the nessesary modules required for the main.py
