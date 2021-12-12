@@ -4,7 +4,16 @@ This is to understand the working of embedded SQL and database connectivity , Th
 
 Output Images: 
 -----
-![](./Schema/buses.PNG)
+![](./Schema/resultss.png)
+----
+![](./Schema/result1.PNG)
+----
+![](./Schema/result2.PNG)
+----
+![](./Schema/output1.PNG)
+---
+![](./Schema/schema.PNG)
+
 NOTE: 
 ------------
 Install all the nessesary modules required for the main.py
